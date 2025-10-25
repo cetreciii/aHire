@@ -5,8 +5,8 @@
 
 ## 🚀 Visione  
 Le soft skills non si leggono su un CV, ma si osservano in azione.  
-**aHire** supporta il processo di selezione trasformando i comportamenti dei candidati in dati oggettivi e misurabili.  
-Combinando **AI generativa (Gemini)** ed un **Team Game virtuale**, aHire consente di identificare le *soft skills dinamiche* come Leadership, Collaborazione e Problem Solving con una precisione utile per attuare una scelta ponderata in prospettiva aziendale sull'assunzione di un potenziale candidato.
+**aHire** supporta il processo di selezione trasformando i comportamenti dei candidati in dati oggettivi e quantificabili.  
+Combinando **AI generativa (Gemini)** ed un **Team Game virtuale**, aHire consente di misurare le *soft skills dinamiche* come Leadership, Collaborazione e Problem Solving con una precisione utile per attuare una scelta ponderata in prospettiva aziendale sull'assunzione di un potenziale candidato.
 
 (Il nome è un gioco di parole tra AI e la parola "Hire" che significa "Assunzione" 😝)
 
