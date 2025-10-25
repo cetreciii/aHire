@@ -21,8 +21,7 @@ Combinando **AI generativa (Gemini)** ed un **Team Game virtuale**, aHire consen
 3. **Dashboard Intuitiva**  
    L'Hire Manager riceve un report visuale con *scoring 1–10* su parametri chiave: Leadership, Collaborazione, Problem Solving, Comunicazione e Iniziativa. Inoltre questa analisi permette di misurare il grado di disallineamento tra il profilo che viene descritto su CV, canali social come Linkedin e l'effettivo comportamento messo in atto durante il Team Game. 
 4. **Decisioni Data-Driven**  
-   Gli Hiring Manager accedono a insight immediati, chiari e concreti.
-
+   Gli Hiring Manager accedono a insight immediati, chiari e concreti basati sulle dinamiche emerse dal Team Game.
 ---
 
 ## 🎯 Perché aHire  
