@@ -18,7 +18,7 @@ In questo modo, le aziende misurano in tempo reale soft skills dinamiche come **
 - 🔍 [Documentazione completa](https://www.notion.so/laurabracale/Documentazione-aHire-YellowStone-2976f0eb5c13808884c1ebfbbf11c543?source=copy_link)  
 - 💻 [Prototipo Figma](https://www.figma.com/proto/XiY8WkueKwOnKxT1vBubAR/aHire-Design?page-id=166%3A1072&node-id=166-1426&viewport=676%2C199%2C0.15&t=RH1EW5KamEFQxYbK-1&scaling=min-zoom&content-scaling=fixed)
 - 🖌️ [Progetto Figma completo](https://www.figma.com/design/XiY8WkueKwOnKxT1vBubAR/aHire-Design?node-id=49-2&t=7Fkf4U3akQVAlexM-1)
-- 🎥 [Link al video presentazione](#)   
+- 🎥 [Link al video presentazione](https://youtu.be/KKe32KidICU)   
 
 ---
 
